@@ -1,0 +1,11 @@
+PySide6
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+shap
+openpyxl
+jinja2
+joblib
+
